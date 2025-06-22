@@ -1,0 +1,23 @@
+/* Write your code here: */
+
+h1, h2 {
+    color: blueviolet;
+}
+
+/* I can write the rule using different variants ( div > p or div .done or .box > p) */
+.box > .done {
+    color: firebrick;
+}
+
+.box li {
+    color: blue;
+}
+
+li.done {
+    color: seagreen;
+}
+
+/* Child combinator also a valid rule (ul > p.done)*/
+ul p.done {
+    font-size: 0.5rem;
+}
