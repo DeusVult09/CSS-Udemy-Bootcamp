@@ -19,6 +19,8 @@
 - Box Model
 - CSS Positioning: static, relative, absolute
 - Inline and block
+- Wrapping text using float property
+- Using different methods for building website responsiveness (in particular media queries)
 
 ## Skills Demonstrated
 
